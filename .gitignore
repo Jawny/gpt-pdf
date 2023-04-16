@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Build output
+dist/
+build/
+out/
+*.out
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# env
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
